@@ -22,7 +22,7 @@ Keeper App is a simple note-keeping web application built using React, HTML, and
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/prashant21b/Keeper-app.git
 2. Install the required dependencies:
     ```bash
      npm install
