@@ -1,23 +1,23 @@
 #Keeper App
 
 
-Keeper App is a simple note-keeping web application built using React, HTML, and CSS.
-It allows you to create and manage your notes and important events.
-You can add, delete notes, and toggle between dark mode and light mode for a personalized experience.
+-Keeper App is a simple note-keeping web application built using React, HTML, and CSS.
+-It allows you to create and manage your notes and important events.
+-You can add, delete notes, and toggle between dark mode and light mode for a personalized experience.
 
 ##Features
-Add Notes: Easily create new notes to jot down important information, tasks, or events.
+-Add Notes: Easily create new notes to jot down important information, tasks, or events.
 
-Delete Notes: Remove notes you no longer need with a simple delete feature.
+-Delete Notes: Remove notes you no longer need with a simple delete feature.
 
-Dark Mode & Light Mode: Switch between dark and light modes to suit your preference for a comfortable reading experience.
+-Dark Mode & Light Mode: Switch between dark and light modes to suit your preference for a comfortable reading experience.
 
 ##Tech Stack
-React: The application is built using the React library, making it highly dynamic and responsive.
+-React: The application is built using the React library, making it highly dynamic and responsive.
 
-HTML: Used for structuring the web page.
+-HTML: Used for structuring the web page.
 
-CSS: Styling is done using CSS to provide a clean and user-friendly interface.
+-CSS: Styling is done using CSS to provide a clean and user-friendly interface.
 ##Installation
 1. Clone the repository to your local machine
    git clone [repository_url]
